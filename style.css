@@ -37,7 +37,7 @@ body {
   padding: 10px;
 }
 
-.qr-card h2 {
+.qr-card h1 {
   margin-block: 1rem;
   color: var(--darkBlue);
 }
